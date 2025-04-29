@@ -88,8 +88,9 @@ Overall, the dataset provides a comprehensive view of the EV landscape in Washin
 
 ## Data Manipulations:
 ### Question 1:
-![Dashboard preview](https://snipboard.io/qbclR4.jpg)
- 
+
+![Dashboard preview](https://snipboard.io/Sdcnhb.jpg)
+
 Normalizing EV registrations by population—expressing them as the number of electric vehicles per 1,000 residents—ensures that larger counties don’t automatically dominate the rankings simply because they have more people. This per-capita approach reveals true adoption intensity: for example, a small county with 50 EVs and 5,000 residents (10 EVs per 1,000) is actually outpacing a much larger county with 500 EVs and 200,000 residents (2.5 EVs per 1,000). Framing the metric per 1,000 people also keeps the results readable, avoiding hard-to-interpret “0.00x” fractions. In short, by using EVs per 1,000 residents, you gain a fair, directly comparable view of adoption that highlights which counties are genuinely at the forefront of the electric-vehicle transition.
 
 

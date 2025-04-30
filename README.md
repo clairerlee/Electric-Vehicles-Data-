@@ -1,4 +1,3 @@
-# Electric-Vehicles-Data
 # Team 6 MIST 4610 Group Project 2
 
 
@@ -88,9 +87,8 @@ Overall, the dataset provides a comprehensive view of the EV landscape in Washin
 
 ## Data Manipulations:
 ### Question 1:
-
 ![Dashboard preview](https://snipboard.io/Sdcnhb.jpg)
-
+ 
 Normalizing EV registrations by population—expressing them as the number of electric vehicles per 1,000 residents—ensures that larger counties don’t automatically dominate the rankings simply because they have more people. This per-capita approach reveals true adoption intensity: for example, a small county with 50 EVs and 5,000 residents (10 EVs per 1,000) is actually outpacing a much larger county with 500 EVs and 200,000 residents (2.5 EVs per 1,000). Framing the metric per 1,000 people also keeps the results readable, avoiding hard-to-interpret “0.00x” fractions. In short, by using EVs per 1,000 residents, you gain a fair, directly comparable view of adoption that highlights which counties are genuinely at the forefront of the electric-vehicle transition.
 
 
@@ -114,15 +112,15 @@ When it comes to the manipulations of the data set, there were quite a few. For 
 ![County-level EV bar chart](https://snipboard.io/ynIe1g.jpg)
 
 
-![EV adoption dashboard](https://snipboard.io/zyhLqP.jpg)
+![EV trend line chart](https://snipboard.io/2aOSQ6.jpg)
+
 
 
 Question 1 Analysis: The per‐capita view of EV registrations in Washington clearly shows that counties with active incentive programs lead the state in EV owners. Jefferson and King counties both received Zero‐Emissions Access grants through Washington State’s ZAP program, Snohomish County offers up to $50 back on residential Level 2 charger installations, Benton PUD rebates customers who buy or lease a new EV, Clark Public Utilities provides up to $2,000 for income‐qualified used-EV purchases, and Spokane County makes a majority of its public charging ports free to use. These patterns underscore the power of targeted financial and infrastructure support: where grants, rebates, or publicly funded chargers exist, EV adoption reliably climbs. They also highlight untapped potential in Washington’s more remote counties—areas where extending charger rebates, grant funding, or small‐business incentives could catalyze new EV markets. Finally, the clustering of high per‐capita adoption along major transportation corridors and ferry routes confirms that placing fast chargers and outreach efforts in these strategic locations not only serves existing EV drivers but also helps build the broader network effects needed to spur even wider adoption.
 
 
 ### Question 2 Analysis:
-![EV dashboard screenshot](https://snipboard.io/jEbJB2.jpg)
-
+![EV trend and manufacturer dashboard](https://snipboard.io/aENOAm.jpg)
 
 Tesla’s lead in total EV registrations reflects early market entry and strong initial growth, but the leveling of its recent trendline suggests that its dominance is now being challenged by competitors scaling aggressively. This may indicate market maturation or the need for product refresh cycles to sustain momentum.
 

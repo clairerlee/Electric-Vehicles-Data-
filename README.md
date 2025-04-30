@@ -179,20 +179,6 @@ Early entrants like Tesla and Volvo show consistent adoption year over year, rei
 
 
 
----
-
-
-## Tableau Packaged Workbook:
-The Tableau Packaged Workbook (.twbx) containing the visualizations and dashboards described above has been uploaded to the project GitHub repository.
-
-
----
-
-
-## Tools Used:
-- Tableau Desktop  
-- GitHub  
-- [Readme.so](https://readme.so/) for formatting 
 
 
 
